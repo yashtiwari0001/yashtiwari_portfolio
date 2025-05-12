@@ -12,7 +12,6 @@ import TextAreaField from '../common/components/TextAreaField/TextAreaField';
 import SubmitButton from '../common/components/SubmitButton/SubmitButton';
 import Loader from '../common/components/Loader/Loader';
 import cv from '../assets/files/cv.pdf';
-import SplashCursor from './SplashCursor'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 
@@ -173,8 +172,6 @@ function App() {
 
 		<div className={style.app}>
 			{/* Navbar */}
-			<SplashCursor />
-
 			<div className={style.nav}>
 				<a className={style.logo}>
 					<FaReact color='var(--primary-main)' size='50px' />
