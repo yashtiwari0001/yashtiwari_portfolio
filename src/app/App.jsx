@@ -266,7 +266,7 @@ function App() {
 							<h3>Get to know me!</h3>
 							<p>
 								I'm a <span>MERN Stack Web Developer</span> building the Front-end and Back-end of Websites and Web Applications that leads to the success of the overall product. Check out some of my work in the <span>Projects</span> section. <br /> <br />
-								I also like sharing content related to the stuff that I have learned over the years in <span>Web Development</span> so it can help other people of the Dev Community. Feel free to Connect or Follow me on my <a href="https://github.com/IbrahimHiarea" target="_blank">Github</a> where I post useful content related to Web Development and Programming. <br /> <br />
+								I also like sharing content related to the stuff that I have learned over the years in <span>Web Development</span> so it can help other people of the Dev Community. Feel free to Connect or Follow me on my <a href="https://github.com/yashtiwari0001" target="_blank">Github</a> where I post useful content related to Web Development and Programming. <br /> <br />
 								I'm open to <span>Job</span> opportunities where I can contribute, learn and grow. If you have a good opportunity that matches my skills and experience then don't hesitate to <span>contact</span> me.
 							</p>
 						</div>
