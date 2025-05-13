@@ -128,7 +128,7 @@ const projects = [
 	},
 	{
 		name: 'Ztech',
-		link: 'ztech-hos.netlify.app',
+		link: 'https://ztech-hos.netlify.app',
 		description: 'ZTech is a hackathon project centered around healthcare innovation. I developed the frontend using HTML, CSS, and JavaScript. The website provides detailed information about stethoscope usage and manages customer data.',
 		image: Kasper
 	},
@@ -220,7 +220,7 @@ function App() {
 				/>
 				<div className={style["home-content"]}>
 					<h1>HEY, I'M Yash Tiwari</h1>
-					<p>A MERN Stack Web Developer building the Frontend and Backend of Websites and Web Applications that leads to the success of the overall product</p>
+					<p>Software engineer with hands-on experience in the MERN stack, developing both frontend and backend of web applications to ensure the success of the product.</p>
 					<a
 						href={cv}
 						download="cv-PDF-document"
@@ -265,9 +265,9 @@ function App() {
 						<div className={style["about-info"]}>
 							<h3>Get to know me!</h3>
 							<p>
-								I'm a <span>MERN Stack Web Developer</span> building the Front-end and Back-end of Websites and Web Applications that leads to the success of the overall product. Check out some of my work in the <span>Projects</span> section. <br /> <br />
-								I also like sharing content related to the stuff that I have learned over the years in <span>Web Development</span> so it can help other people of the Dev Community. Feel free to Connect or Follow me on my <a href="https://github.com/yashtiwari0001" target="_blank">Github</a> where I post useful content related to Web Development and Programming. <br /> <br />
-								I'm open to <span>Job</span> opportunities where I can contribute, learn and grow. If you have a good opportunity that matches my skills and experience then don't hesitate to <span>contact</span> me.
+								I'm a <span>Software Engineer</span> with hands-on experience in the MERN stack, building both the Front-end and Back-end of Websites and Web Applications that contribute to the success of the overall product. Check out some of my work in the <span>Projects</span> section. <br /> <br />
+								I also enjoy sharing content related to what I've learned over the years in <span>Web Development</span> to help others in the Dev Community. Feel free to connect or follow me on my <a href="https://github.com/yashtiwari0001" target="_blank">Github</a> where I post useful content related to Web Development and Programming. <br /> <br />
+								I'm open to <span>Job</span> opportunities where I can contribute, learn, and grow. If you have a great opportunity that matches my skills and experience, don't hesitate to <span>contact</span> me.
 							</p>
 						</div>
 						<div className={style["my-skill"]}>
