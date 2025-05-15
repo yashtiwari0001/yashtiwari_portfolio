@@ -241,7 +241,7 @@ function App() {
 					</div>
 				</div>
 				<div className={style["contact-nav"]}>
-					<a className={style.github} target="_blank" href='https://github.com/yashtiwari0001' >
+					<a className={style.github} target="_blank" href='https://github.com/stackbyyash' >
 						<AiFillGithub size="30px" color='black' />
 					</a>
 					<a className={style.linkedin} target="_blank" href='https://www.linkedin.com/in/yash-tiwari-1b4889249/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' >
@@ -266,7 +266,7 @@ function App() {
 							<h3>Get to know me!</h3>
 							<p>
 								I'm a <span>Software Engineer</span> with hands-on experience in the MERN stack, building both the Front-end and Back-end of Websites and Web Applications that contribute to the success of the overall product. Check out some of my work in the <span>Projects</span> section. <br /> <br />
-								I also enjoy sharing content related to what I've learned over the years in <span>Web Development</span> to help others in the Dev Community. Feel free to connect or follow me on my <a href="https://github.com/yashtiwari0001" target="_blank">Github</a> where I post useful content related to Web Development and Programming. <br /> <br />
+								I also enjoy sharing content related to what I've learned over the years in <span>Web Development</span> to help others in the Dev Community. Feel free to connect or follow me on my <a href="https://github.com/stackbyyash" target="_blank">Github</a> where I post useful content related to Web Development and Programming. <br /> <br />
 								I'm open to <span>Job</span> opportunities where I can contribute, learn, and grow. If you have a great opportunity that matches my skills and experience, don't hesitate to <span>contact</span> me.
 							</p>
 						</div>
