@@ -117,7 +117,7 @@ const projects = [
 	{
 	name: 'LifeVista',
 		link: 'https://thelifevista.com',
-		description: 'LiveVista is an e-commerce platform specializing in pool products, serving customers in Vietnam. I built this website using a content management system (CMS), enabling efficient product management and user experience.',
+		description: 'LifeVista is an e-commerce platform specializing in pool products, serving customers in Vietnam. I built this website using a content management system (CMS), enabling efficient product management and user experience.',
 		image: SokoNumber
 	},
 	{
